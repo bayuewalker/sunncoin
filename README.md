@@ -8,14 +8,13 @@ Sunncoin is a clone of Litecoin I made as part of a Youtube series documenting t
 
 Sunncoin properties:
 
--Initial reward of 20 coins
+-Initial reward of 2 coins
 
 -Block interval of 5 minutes
 
--Maximum supply of 350k coins
+-Maximum supply of 37M coins
 
-[Sunncoin Block Explorer](http://159.65.188.63:8000/)
+[Sunncoin Block Explorer](http://#/)
 
-[Sunncoin Faucet](http://159.65.188.63/)
 
-# [Sunncoin Release](https://github.com/schyczewski/sunncoin/releases/tag/v0.8)
+# [Sunncoin Release](https://github.com/bayuewalker/sunncoin/releases/tag/v0.8)
