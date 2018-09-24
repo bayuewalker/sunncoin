@@ -1,0 +1,9 @@
+Building Sunncoin
+
+See doc/readme-qt.rst for instructions on building Sunncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sunncoin.
+
+See doc/build-*.txt for instructions on building sunncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sunncoin.
